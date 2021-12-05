@@ -3,4 +3,6 @@
 
 ### Read here for instructions! :blush:
 
-tbh i need to study for finals now i will update later okay bye 
+#### Missing items: 
+#### 1. Session & Cookies
+#### 2. Unique Order ID in mySQL
